@@ -1,3 +1,4 @@
+Using this link you can watch a more in depth dive into the assessment: https://www.loom.com/share/4689bebba63045799e8520967fa50b35
 # Gritty Tech Assessment
 This is a technical assessment I completed for my capstone projects sponsor company. 
 
